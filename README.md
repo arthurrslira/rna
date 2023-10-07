@@ -2,6 +2,7 @@
 
 ### Nomes dos Alunos
 Arthur Rennan Santos Lira
+
 Maria Eduarda Marques de Oliveira
 
 |**Classificação de Imagens**|**Modelo Selecionado**|**Linguagem**|
