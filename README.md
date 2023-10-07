@@ -5,7 +5,7 @@ Arthur Rennan Santos Lira
 
 Maria Eduarda Marques de Oliveira
 
-|**Classificação de Imagens**|**Modelo Selecionado**|**Linguagem**|
+|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
 |Classificação de Imagens|ex.: YOLOv5|PyTorch ou Tensorflow|
 
