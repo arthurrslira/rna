@@ -7,7 +7,7 @@ Maria Eduarda Marques de Oliveira
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens|||
 
 ## Performance
 
