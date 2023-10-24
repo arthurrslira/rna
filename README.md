@@ -7,7 +7,7 @@ Maria Eduarda Marques de Oliveira
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens|||
+|Classificação de Imagens|ResNet-34||
 
 ## Performance
 
