@@ -7,7 +7,7 @@ Maria Eduarda Marques de Oliveira
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens|ResNet-34||
+|Classificação de Imagens|ResNet-34|Pytorch & TensorFlow|
 
 ## Performance
 
