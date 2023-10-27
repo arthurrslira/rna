@@ -48,7 +48,4 @@ Best val Acc: 0.822115  ```
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
-Exemplo de adição de imagem:
-![Biscuit](https://user-images.githubusercontent.com/138302604/278775133-593ba8d7-6d40-475a-8672-af1d07f9b3dc.png)
+[Biscuit](https://user-images.githubusercontent.com/138302604/278775133-593ba8d7-6d40-475a-8672-af1d07f9b3dc.png)
