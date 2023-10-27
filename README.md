@@ -51,5 +51,6 @@ Best val Acc: 0.822115  ```
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
 Exemplo de adição de imagem:
-![Biscuit](https://raw.githubusercontent.com/arthurrslira/rna/blob/main/treinamento/biscuit.png)
+![Biscuit]![image](https://github.com/arthurrslira/rna/assets/138302604/734d566a-f0f1-470e-9878-88bdf4161062))
+![image](https://github.com/arthurrslira/rna/assets/138302604/70d02546-7490-4744-91cf-808da5a68611)
 ![Cerâmica](https://raw.githubusercontent.com/arthurrslira/rna/blob/main/treinamento/ceramica.png)
