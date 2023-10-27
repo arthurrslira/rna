@@ -11,7 +11,7 @@ Maria Eduarda Marques de Oliveira
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+Ao final do treinamento e ajustes, o modelo alcançou uma acurácia de 0.822115, o que significa que ele tem uma precisão de aproximadamente 82,21% ao identificar e classificar corretamente as peças nas categorias estabelecidas.
 
 ### Output do bloco de treinamento
 
@@ -19,8 +19,29 @@ O modelo treinado possui performance de **??%**.
   <summary>Click to expand!</summary>
   
   ```text
-    Você deve colar aqui a saída do bloco de treinamento do notebook, contendo todas as épocas e saídas do treinamento
-  ```
+Epoch 0/2
+----------
+Iterando através dos dados...
+train Loss: 1.3536 Acc: 0.3582
+Iterando através dos dados...
+val Loss: 0.8602 Acc: 0.6538
+
+Epoch 1/2
+----------
+Iterando através dos dados...
+train Loss: 0.9158 Acc: 0.6343
+Iterando através dos dados...
+val Loss: 0.7703 Acc: 0.7115
+
+Epoch 2/2
+----------
+Iterando através dos dados...
+train Loss: 0.8265 Acc: 0.6866
+Iterando através dos dados...
+val Loss: 0.4799 Acc: 0.8221
+
+Training complete in 7m 24s
+Best val Acc: 0.822115  ```
 </details>
 
 ### Evidências do treinamento
