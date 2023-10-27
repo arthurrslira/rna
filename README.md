@@ -52,3 +52,4 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 
 Exemplo de adição de imagem:
 ![Biscuit](https://raw.githubusercontent.com/arthurrslira/rna/blob/main/treinamento/biscuit.png)
+![Cerâmica](https://raw.githubusercontent.com/arthurrslira/rna/blob/main/treinamento/ceramica.png)
