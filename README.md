@@ -44,6 +44,8 @@ Training complete in 7m 24s
 Best val Acc: 0.822115  ```
 </details>
 
+
+
 ### Evidências do treinamento
 
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
