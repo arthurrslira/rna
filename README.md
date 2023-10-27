@@ -48,4 +48,4 @@ Best val Acc: 0.822115  ```
 
 ### Evidências do treinamento
 
-![dataset/biscuit](https://user-images.githubusercontent.com/138302604/278775133-593ba8d7-6d40-475a-8672-af1d07f9b3dc.png)
+![treinamento/biscuit](https://user-images.githubusercontent.com/138302604/278775133-593ba8d7-6d40-475a-8672-af1d07f9b3dc.png)
