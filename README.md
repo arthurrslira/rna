@@ -49,3 +49,4 @@ Best val Acc: 0.822115  ```
 ### Evidências do treinamento
 
 ![Biscuit](https://raw.githubusercontent.com/arthurrslira/rna/main/278775133-593ba8d7-6d40-475a-8672-af1d07f9b3dc.png)
+![Cerâmica](https://user-images.githubusercontent.com/138302604/278775319-9a27b94d-513e-452a-aabf-810a6c36035b.png)
